@@ -1,0 +1,7 @@
+ppink - be07fa
+gray - efccfa
+
+pink whitered - e7abfa
+
+button press collor - #A13CA2
+button default color - #CCCCCC
