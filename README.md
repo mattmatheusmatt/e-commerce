@@ -6,4 +6,5 @@ Esse projeto visa entender os vendedores e consumidores de um e-commerce com int
 ## Links importantes
 
 [Base de dados](https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_orders_dataset.csv)
+[Relatório Online](https://app.powerbi.com/view?r=eyJrIjoiOGQyNTcxYzEtNjA2Ni00MmQxLTg3YjMtZDAzY2EzZGMzOGQ1IiwidCI6ImM4MjQ3MmYwLTNiNGItNDE4My04Yzk1LTZhMTVjZjMwZGVkYiJ9&pageName=ReportSection1fa6d5a4905096531701)
 
