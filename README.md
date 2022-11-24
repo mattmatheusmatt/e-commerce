@@ -9,3 +9,4 @@ Esse projeto visa entender os vendedores e consumidores de um e-commerce com int
 
 [Relatório Online](https://app.powerbi.com/view?r=eyJrIjoiOGQyNTcxYzEtNjA2Ni00MmQxLTg3YjMtZDAzY2EzZGMzOGQ1IiwidCI6ImM4MjQ3MmYwLTNiNGItNDE4My04Yzk1LTZhMTVjZjMwZGVkYiJ9&pageName=ReportSection1fa6d5a4905096531701)
 
+[Documentação do Projeto](https://www.youtube.com/playlist?list=PLP-YI_e9x5kciZZ4FHfsh8ZRtBFeCF3E6)
